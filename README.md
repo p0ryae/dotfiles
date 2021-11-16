@@ -35,4 +35,6 @@
   </table>
 </div>
 
+## - Credits
+[Axyl OS](https://github.com/axyl-os/axyl-iso)
 
