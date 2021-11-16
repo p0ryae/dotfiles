@@ -7,6 +7,8 @@
   Make sure to customize this for yourself so it will suit your personal choice.
 </p>
 
+<br><br><br>
+
 ## Requirements (You need most of these)
 - **[Picom](https://github.com/jonaburg/picom) (Jonaburg Version)** <br>
 - **OpenRGB** for RGB control (you can remove the line in the bspwm file but I use it for myself so)<br>
