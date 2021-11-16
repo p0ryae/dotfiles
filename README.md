@@ -9,7 +9,7 @@
   Make sure to customize this for yourself so it will suit your personal choice.
 </p>
 
-<br><br>
+<br>
 
 ## Requirements
 - **[Picom](https://github.com/jonaburg/picom) (Jonaburg Version)** <br>
