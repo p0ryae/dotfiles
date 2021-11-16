@@ -7,7 +7,7 @@
   Make sure to customize this for yourself so it will suit your personal choice.
 </p>
 
-<br><br><br>
+<br><br>
 
 ## Requirements (You need most of these)
 - **[Picom](https://github.com/jonaburg/picom) (Jonaburg Version)** <br>
