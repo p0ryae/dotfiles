@@ -1,0 +1,61 @@
+#Alacritty:
+
+env:
+  TERM: alacritty
+
+window:
+  padding:
+    x: 30
+    y: 30
+
+    dynamic_padding:  true
+    decoration: none
+
+font:
+  normal:
+    family: JetBrainsMono Nerd Font
+    #style: Regular
+
+  # Point size
+  size: 11.5
+
+colors:
+# Colors (iTerm 2 default theme)
+colors:
+  # Default colors
+  primary:
+    background: '#292C34'
+    foreground: '0xeeffff'
+
+ # Normal colors
+  normal:
+    black:   '#2e2e2e'
+    red:     '#eb4129'
+    green:   '#03C03C'
+    yellow:  '#f6c744'
+    blue:    '#007FFF'
+    magenta: '#7b5cb0'
+    cyan:    '#1793d1'
+    white:   '#e5e9f0'
+
+ # Bright colors
+  bright:
+    black:   '#565656'
+
+
+background_opacity: 1
+
+# cursor:
+#   style: Underline
+
+#   unfocused_hollow: false
+
+live_config_reload: true
+                 
+key_bindings:
+
+  - { key: Key0, mods: Control, action: ResetFontSize }
+
+  - { key: Equals, mods: Control, action: IncreaseFontSize }
+
+  - { key: Minus, mods: Control, action: DecreaseFontSize }
