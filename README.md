@@ -12,12 +12,10 @@
 <br>
 
 ## - Requirements
-- **[Picom](https://github.com/jonaburg/picom) (Jonaburg Version)** <br>
 - **OpenRGB** for RGB control (you can remove the line in the bspwm file but I use it for myself so)<br>
 - **[sxhkd](https://archlinux.org/packages/community/x86_64/sxhkd/)** for keybinding.<br>
-- **[Polybar](https://github.com/polybar/polybar)** for the top bar.<br>
+- **[Eww](https://github.com/elkowar/eww)** for the top bar.<br>
 - **[Alacritty](https://github.com/alacritty/alacritty)** for your terminal (you can use your own but you gotta config it yourself)
-- Download **[this](https://github.com/DashCruft/dotfiles/blob/main/Font_Awesome_6_Pro_Regular.ttf)** font and install it or the icons won't appear or will be missing from your polybar!!
 
 ## - Screenshot(s)
 
@@ -29,7 +27,7 @@
     </tr>
     <tr>
       <td>
-        <img src="https://user-images.githubusercontent.com/59381835/141885334-99d647a8-2fdd-4552-9d11-582580df4b76.png" alt="i3">
+        <img src="https://user-images.githubusercontent.com/59381835/164946395-eccbada8-7aa4-4788-a009-67f77f3de786.png" alt="i3">
       </td>
     </tr>
   </table>
