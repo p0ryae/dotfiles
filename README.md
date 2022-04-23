@@ -12,14 +12,14 @@
 <br>
 
 ## - Requirements
-- **OpenRGB** for RGB control (you can remove the line in the bspwm file but I use it for myself so)<br>
-- **[sxhkd](https://archlinux.org/packages/community/x86_64/sxhkd/)** for keybindings<br>
-- **[Eww](https://github.com/elkowar/eww)** for the top bar.<br>
-- **[Alacritty](https://github.com/alacritty/alacritty)** for terminal. 
+- **[sxhkd](https://archlinux.org/packages/community/x86_64/sxhkd/)** for keybindings
+- **[Eww](https://github.com/elkowar/eww)** for the top bar
+- **[Alacritty](https://github.com/alacritty/alacritty)** for terminal
+- **[Flameshot](https://github.com/flameshot-org/flameshot)** for screenshoting
 
 #### Fonts: 
-- [Iosevka Medium](https://github.com/be5invis/Iosevka/releases/tag/v15.2.0) for Alacritty
-- [JetBrainsMono Nerd Font Mono](https://github.com/ryanoasis/nerd-fonts/tree/master/patched-fonts/JetBrainsMono/Ligatures/Regular/complete) for Eww (topbar)
+- **[Iosevka Medium](https://github.com/be5invis/Iosevka/releases/tag/v15.2.0)** for Alacritty
+- **[JetBrainsMono Nerd Font Mono](https://github.com/ryanoasis/nerd-fonts/tree/master/patched-fonts/JetBrainsMono/Ligatures/Regular/complete)** for Eww (topbar)
 
 
 ## - Screenshot(s)
