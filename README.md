@@ -22,7 +22,7 @@
 - **[JetBrainsMono Nerd Font Mono](https://github.com/ryanoasis/nerd-fonts/tree/master/patched-fonts/JetBrainsMono/Ligatures/Regular/complete)** for Eww (topbar)
 
 
-## - Screenshot(s)
+## - Screenshot
 
 <div align=center>
   <table>
