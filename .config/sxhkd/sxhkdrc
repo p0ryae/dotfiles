@@ -13,7 +13,7 @@ super + shift + Return
 
 # program launcher
 super + d
-	j4-dmenu-desktop
+	rofi -modi drun -show drun
 
 # make sxhkd reload its configuration files:
 super + Escape
@@ -29,7 +29,7 @@ ctrl + shift + {q,r}
 
 # close and kill
 super + q
-	bspc node -{c,k}
+	bspc node -c
 
 # alternate between the tiled and monocle layout
 super + m
@@ -142,4 +142,3 @@ XF86AudioNext
 	playerctl next -p spotify
 XF86AudioPlay
 	playerctl play-pause -p spotify
-
